@@ -1,9 +1,9 @@
 {
-  "name": "typescript-ddd-skeleton",
+  "name": "backend-test",
   "version": "1.0.0",
   "description": "",
   "repository": {
-    "url": "https://github.com/CodelyTV/typescript-ddd-skeleton"
+    "url": "https://github.com/anagparedes/Backend-Test.git"
   },
   "license": "",
   "engines": {
