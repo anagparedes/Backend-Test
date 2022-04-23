@@ -1,0 +1,6 @@
+{
+	"cucumber-quick": {
+		"tool": "cucumberjs",
+		"script": "npx cucumber-js relative- tests/apps/mooc/backend/features/ranking.feature"
+	}
+}

@@ -31,3 +31,7 @@ BeforeAll(async () => {
 AfterAll(async () => {
   await application.stop();
 });
+
+Then(/^the response body:$/, async (body: number) => {
+  _response = await _request.expect(body);
+});
